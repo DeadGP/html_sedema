@@ -1,6 +1,6 @@
 {
-    "name": "plataforma_sedema2",
-    "short_name": "plataforma_sedema2",
+    "name": "sedema_users",
+    "short_name": "sedema_users",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
